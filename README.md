@@ -1,6 +1,9 @@
 # startup_namer
 
-A new Flutter project.
+A new Flutter project. 
+
+email :  zuhairhd@gmail.com
+website: http://zuhairhd.com
 
 ## Getting Started
 
